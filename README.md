@@ -17,6 +17,9 @@ This project is a Streamlit application that allows users to interact with PDF d
 - Python 3.9 or higher
 - anaconada
 
+## Project link
+https://github.com/prati019/PDF-Chatbot
+
 ### Steps
 
 1. **Create a Virtual Environment**
